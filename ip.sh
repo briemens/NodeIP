@@ -1,1 +1,1 @@
-node ~/Development/node/apps/ip/ip.js
+node ip.js
